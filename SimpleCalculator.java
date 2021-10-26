@@ -2,7 +2,7 @@
  * Simple Calculator
  *
  * @author Ziana Kambere
- * Student Number: 300143238
+ * 
  */
 public class SimpleCalculator {
     static int top;
